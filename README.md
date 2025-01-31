@@ -11,4 +11,7 @@ Requierements:
 
 
 How to Install:
-Code --> 
+- Have at least Python Version 3.6 installed
+- Code --> Download zip
+- open cmd/terminal, switch directory to the files
+- run 'pip install -r requirements.txt'
