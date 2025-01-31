@@ -1,5 +1,3 @@
-A simple tool I made as an exercise in Python
-
 Captures and looks at TCP packets and turns their values into pixels.
 The imagesize is specified beforehand, if not it defaults to 200 x 200.
 
